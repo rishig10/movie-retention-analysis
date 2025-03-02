@@ -37,12 +37,11 @@ cd movie-retention-analysis
 
 2. Run the Jupyter notebook
 ```
-jupyter notebook movie_analysis_python_2.ipynb
+jupyter notebook movie_analysis_python.ipynb
 ```
 
 ## Project Structure
 
-- `movie_analysis_python_2.ipynb` - Main analysis notebook
+- `movie_analysis_python.ipynb` - Main analysis notebook
 - `train.csv` - Training dataset (large file)
 - `test.csv` - Test dataset
-- `output_data.csv` - Predictions for user retention
