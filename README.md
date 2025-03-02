@@ -31,7 +31,7 @@ The project uses two main datasets:
 ### Running the Analysis
 1. Clone this repository
 ```
-git clone https://github.com/yourusername/movie-retention-analysis
+git clone [https://github.com/yourusername/movie-retention-analysis](https://github.com/rishig10/movie-retention-analysis.git)
 cd movie-retention-analysis
 ```
 
